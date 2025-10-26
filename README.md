@@ -37,6 +37,8 @@ It includes the line number, type of vehicle, route, and average travel duration
 
 ![Train in Cracow](.\Image\train.jpg)
 
+![Train in Cracow](\Image\train.jpg)
+
 ---
 
 ## TEAM
