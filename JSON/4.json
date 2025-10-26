@@ -1,0 +1,21 @@
+{
+    "city": "Kraków",
+    "largest_line_id": 10,
+    "average_wait_min": 12.5,
+    "has_night_service": true,
+    "popular_lines": [
+        1,
+        10,
+        179
+    ],
+    "notes": {
+        "operator": "MPK",
+        "intergrated": true
+    },
+    "typical_capity": 180,
+    "ticket_models": [
+        "20min",
+        "60min",
+        "24h"
+    ]
+}
