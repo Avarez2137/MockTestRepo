@@ -35,9 +35,8 @@ It includes the line number, type of vehicle, route, and average travel duration
 
 [Bus in Cracow](https://www.shutterstock.com/image-photo/cracow-poland-april-25-2018-260nw-1109630087.jpg)
 
-![Train in Cracow](.\Image\train.jpg)
+![Train in Cracow](./Image/train.jpg)
 
-![Train in Cracow](\Image\train.jpg)
 
 ---
 
