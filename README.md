@@ -31,9 +31,9 @@ It includes the line number, type of vehicle, route, and average travel duration
 ## Images
 
 
-[Tram in Cracow](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Krk_bombardier_ngt6_2037_filharmonia.jpg/330px-Krk_bombardier_ngt6_2037_filharmonia.jpg)
+![Tram in Cracow](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Krk_bombardier_ngt6_2037_filharmonia.jpg/330px-Krk_bombardier_ngt6_2037_filharmonia.jpg)
 
-[Bus in Cracow](https://www.shutterstock.com/image-photo/cracow-poland-april-25-2018-260nw-1109630087.jpg)
+![Bus in Cracow](https://www.shutterstock.com/image-photo/cracow-poland-april-25-2018-260nw-1109630087.jpg)
 
 ![Train in Cracow](./Image/train.jpg)
 
