@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransport>
+    <BusLine>
+        <Number>152</Number>
+        <RouteStart>Osiedle Podwawelskie</RouteStart>
+        <RouteEnd>Airport Kraków-Balice</RouteEnd>
+        <Operator>MPK Kraków</Operator>
+    </BusLine>
+    <BusLine>
+        <Number>124</Number>
+        <RouteStart>Dworzec Główny Wschód</RouteStart>
+        <RouteEnd>Osiedle Podwawelskie</RouteEnd>
+        <Operator>MPK Kraków</Operator>
+    </BusLine>
+    <BusLine>
+        <Number>179</Number>
+        <RouteStart>Dworzec Główny Zachód</RouteStart>
+        <RouteEnd>Osiedle Kurdwanów</RouteEnd>
+        <Operator>MPK Kraków</Operator>
+    </BusLine>
+    <BusLine>
+        <Number>501</Number>
+        <RouteStart>Nowy Bieżanów Południe</RouteStart>
+        <RouteEnd>Prądnik Czerwony</RouteEnd>
+        <Operator>MPK Kraków</Operator>
+    </BusLine>
+    <BusLine>
+        <Number>139</Number>
+        <RouteStart>Mydlniki</RouteStart>
+        <RouteEnd>Wzgórza Krzesławickie</RouteEnd>
+        <Operator>MPK Kraków</Operator>
+    </BusLine>
+    <BusLine>
+        <Number>503</Number>
+        <RouteStart>Nowy Bieżanów Południe</RouteStart>
+        <RouteEnd>Górka Narodowa</RouteEnd>
+        <Operator>MPK Kraków</Operator>
+    </BusLine>
+</PublicTransport>
