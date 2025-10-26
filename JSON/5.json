@@ -1,0 +1,44 @@
+[
+    {
+        "id": 52,
+        "type": "tram",
+        "route": "Czerwone Maki P+R - Os. Piastów",
+        "capacity": 180,
+        "active": true
+    },
+    {
+        "id": 1,
+        "type": "tram",
+        "route": "Plac Centralny - Dworzec Gł.",
+        "capacity": 180,
+        "active": true
+    },
+    {
+        "id": 10,
+        "type": "tram",
+        "route": "Stare Miasto - Nowa Huta",
+        "capacity": 200,
+        "active": true
+    },
+    {
+        "id": 304,
+        "type": "bus",
+        "route": "Dworzec Gł. - Wieliczka",
+        "capacity": 60,
+        "active": true
+    },
+    {
+        "id": 52,
+        "type": "bus",
+        "route": "Kazimierz - Borek Fałęcki",
+        "capacity": 85,
+        "active": true
+    },
+    {
+        "id": 101,
+        "type": "tram",
+        "route": "Bracka - Nowa Huta",
+        "capacity": 170,
+        "active": false
+    }
+]
