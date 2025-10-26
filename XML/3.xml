@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransport>
+    <line>
+        <LineNumber type="numeric" language="en">1</LineNumber>
+        <Type city="Kraków" operator="MPK">Tram</Type>
+        <Start zone="I" language="pl">Wzgórza Krzesławickie</Start>
+        <End zone="I" language="pl">Salwator</End>
+    </line>
+    <line>
+        <LineNumber type="numeric" language="en">179</LineNumber>
+        <Type city="Kraków" operator="MPK">Bus</Type>
+        <Start zone="I" language="pl">Osiedle Kurdwanów</Start>
+        <End zone="I" language="pl">Dworzec Główny Zachód</End>
+    </line>
+    <line>
+        <LineNumber type="numeric" language="en">52</LineNumber>
+        <Type city="Kraków" operator="MPK">Tram</Type>
+        <Start zone="I" language="pl">Czerwone Maki P+R</Start>
+        <End zone="II" language="pl">Osiedle Piastów</End>
+    </line>
+    <line>
+        <LineNumber type="numeric" language="en">152</LineNumber>
+        <Type city="Kraków" operator="MPK">Bus</Type>
+        <Start zone="I" language="pl">Osiedle Podwawelskie</Start>
+        <End zone="III" language="pl">Kraków Airport</End>
+    </line>
+    <line>
+        <LineNumber type="numeric" language="en">304</LineNumber>
+        <Type city="Kraków" operator="MPK">Bus</Type>
+        <Start zone="I" language="pl">Dworzec Główny Zachód</Start>
+        <End zone="III" language="pl">Wieliczka Kopalnia Soli</End>
+    </line>
+    <line>
+        <LineNumber type="numeric" language="en">50</LineNumber>
+        <Type city="Kraków" operator="MPK">Tram</Type>
+        <Start zone="I" language="pl">Kurdwanów P+R</Start>
+        <End zone="I" language="pl">Krowodrza Górka</End>
+    </line>
+</PublicTransport>
